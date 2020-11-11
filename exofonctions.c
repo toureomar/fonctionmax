@@ -14,7 +14,8 @@ int main(){
         }else
         {
             printf("Veuillez saisr le bon chiffre \n");
-        }
+            
+        }break;
     }
     return 0;
 }
